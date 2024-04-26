@@ -287,6 +287,7 @@ class CheckIn {
 
     return `
 掘友: ${this.username}
+cookie: ${this.cookie}
 ${
   {
     0: "签到失败",
